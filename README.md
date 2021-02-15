@@ -1,2 +1,3 @@
 # Animals
-Project 15 from my Programming Concepts class during the Spring 2016 semester.
+
+These programs (testers) create different types of animal objects (using derived classes and inheritance) and prints them to the screen.
